@@ -1,0 +1,1634 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:30 J;0;0;[3arc]democlient
+  0:53 say;0;1;slykuiper;r_fog 0
+  1:27 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:32 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:36 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:41 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:46 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:51 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:32 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:37 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:42 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:47 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:52 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:57 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  4:02 ShutdownGame:
+  4:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+ 19:41 J;0;0;[3arc]democlient
+ 23:42 ShutdownGame:
+ 23:42 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:15 J;0;0;[3arc]democlient
+  0:48 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:36 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  9:56 ShutdownGame:
+  9:56 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  1:12 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:41 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_TRIGGER_HURT;none
+  3:05 J;0;2;[3arc]Tom3dJay
+  3:06 J;0;3;[3arc]kubi ダサい
+  3:09 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:11 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:13 J;0;4;[3arc]Infratic
+  3:15 J;0;5;[3arc]E2028
+  3:18 J;0;6;[3arc]fnt
+  3:21 J;0;7;[3arc]skykuiper
+  3:24 J;0;8;[3arc]pont. [wavegod]
+  3:28 J;0;9;[3arc]vaati 'ring
+  3:32 K;0;9;allies;[3arc]vaati 'ring;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:34 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:35 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:38 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:42 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:42 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;93;MOD_RIFLE_BULLET;torso_lower
+  3:45 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:47 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:49 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:50 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:52 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  3:53 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  3:55 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:56 Weapon;0;5;E2028;dragunov_extclip_mp
+  3:56 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;left_arm_upper
+  3:57 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:59 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:01 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:02 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:04 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+  4:07 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:08 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:10 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:11 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  4:11 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;122;MOD_HEAD_SHOT;head
+  4:13 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:18 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;60;MOD_RIFLE_BULLET;torso_upper
+  4:20 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:21 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  4:22 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:25 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+  4:27 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;94;MOD_RIFLE_BULLET;torso_lower
+  4:28 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:29 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:30 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:32 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;right_arm_upper
+  4:34 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;60;MOD_RIFLE_BULLET;torso_lower
+  4:36 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:38 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:39 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:40 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:43 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:44 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:45 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;60;MOD_RIFLE_BULLET;left_arm_upper
+  4:47 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  4:49 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:51 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:52 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:52 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;47;MOD_RIFLE_BULLET;right_leg_lower
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:54 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:55 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:56 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;60;MOD_RIFLE_BULLET;torso_lower
+  4:57 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:59 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:00 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:01 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  5:01 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;l96a1_extclip_mp;81;MOD_RIFLE_BULLET;torso_lower
+  5:02 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:02 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:02 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:04 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_upper
+  5:06 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  5:06 Weapon;0;1;slykuiper;wa2000_extclip_mp
+  5:09 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:11 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:12 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;psg1_extclip_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+  5:12 Weapon;0;2;Tom3dJay;python_speed_mp
+  5:13 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;psg1_extclip_mp;140;MOD_HEAD_SHOT;head
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:15 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:15 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:15 Weapon;0;1;slykuiper;psg1_extclip_mp
+  5:17 K;0;8;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:19 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:20 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;psg1_extclip_mp;55;MOD_RIFLE_BULLET;torso_upper
+  5:21 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:22 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:22 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:23 K;0;6;allies;[3arc]Unknown Soldier 6;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:24 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:26 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:27 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:28 Weapon;0;4;Infratic;l96a1_extclip_mp
+  5:30 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:31 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  5:32 Weapon;0;1;slykuiper;ak47_dualclip_mp
+  5:35 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+  5:35 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  5:40 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+  5:46 K;0;7;allies;[3arc]skykuiper;0;1;axis;slykuiper;psg1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+  5:46 Weapon;0;5;E2028;l96a1_extclip_mp
+  5:53 Weapon;0;7;skykuiper;l96a1_extclip_mp
+  9:25 J;109251922;10;WispyWalldorff
+  9:48 K;0;2;allies;[3arc]Tom3dJay;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  9:51 K;0;5;allies;[3arc]E2028;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  9:52 K;0;4;allies;[3arc]Infratic;0;1;axis;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  9:53 K;0;3;allies;[3arc]kubi ダサい;0;1;axis;slykuiper;psg1_extclip_mp;53;MOD_RIFLE_BULLET;left_arm_upper
+  9:55 Weapon;0;2;Tom3dJay;psg1_extclip_mp
+  9:56 K;0;2;allies;[3arc]Tom3dJay;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  9:59 K;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:00 K;0;6;allies;[3arc]Unknown Soldier 6;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 K;0;7;allies;[3arc]skykuiper;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:01 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:02 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:03 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:04 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 say;109251922;10;WispyWalldorff;uhm
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:05 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:06 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:07 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;7;skykuiper;l96a1_extclip_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:08 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:09 K;0;6;allies;[3arc]Unknown Soldier 6;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 10:10 K;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+ 10:12 K;0;7;allies;[3arc]skykuiper;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 10:14 K;0;8;allies;[3arc]pont. [wavegod];109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 10:14 K;0;9;allies;[3arc]vaati 'ring;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+ 10:24 K;0;2;allies;[3arc]Tom3dJay;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 Weapon;0;3;kubi ;kiparisdw_mp
+ 10:24 K;0;3;allies;[3arc]kubi ダサい;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+ 10:30 K;0;4;allies;[3arc]Infratic;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 10:31 K;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 10:32 K;0;6;allies;[3arc]Unknown Soldier 6;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;neck
+ 10:34 K;0;7;allies;[3arc]skykuiper;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 10:41 K;0;8;allies;[3arc]pont. [wavegod];109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 10:41 K;0;9;allies;[3arc]vaati 'ring;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;47;MOD_HEAD_SHOT;head
+ 10:48 K;0;7;allies;[3arc]skykuiper;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 10:55 K;0;6;allies;[3arc]Unknown Soldier 6;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 10:55 D;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;26;MOD_RIFLE_BULLET;left_arm_upper
+ 10:55 D;0;4;allies;[3arc]Infratic;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;20;MOD_RIFLE_BULLET;torso_lower
+ 10:55 K;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;36;MOD_RIFLE_BULLET;torso_upper
+ 10:55 K;0;4;allies;[3arc]Infratic;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;34;MOD_RIFLE_BULLET;torso_lower
+ 10:59 K;0;1;axis;slykuiper;109251922;10;axis;WispyWalldorff;knife_mp;137;MOD_MELEE;torso_lower
+ 11:01 K;0;3;allies;[3arc]kubi ダサい;109251922;10;axis;WispyWalldorff;knife_mp;137;MOD_MELEE;torso_upper
+ 11:01 Weapon;109251922;10;WispyWalldorff;ak47_dualclip_mp
+ 11:03 K;0;2;allies;[3arc]Tom3dJay;109251922;10;axis;WispyWalldorff;knife_mp;139;MOD_MELEE;right_arm_upper
+ 11:08 K;0;4;allies;[3arc]Infratic;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 11:09 K;0;5;allies;[3arc]E2028;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 11:11 K;0;6;allies;[3arc]Unknown Soldier 6;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 11:13 K;0;7;allies;[3arc]skykuiper;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 11:15 K;0;8;allies;[3arc]pont. [wavegod];109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 11:16 K;0;9;allies;[3arc]vaati 'ring;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 11:22 K;0;8;allies;[3arc]pont. [wavegod];109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 11:23 K;0;9;allies;[3arc]vaati 'ring;109251922;10;axis;WispyWalldorff;ak47_dualclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+ 11:23 Q;109251922;10;WispyWalldorff
+ 18:11 J;73470829;10;Dream
+ 18:35 Q;73470829;10;Dream
+ 20:09 J;183880265;10;XNT.Nigga
+ 20:27 say;183880265;10;XNT.Nigga;sly
+ 20:29 sayteam;183880265;10;XNT.Nigga;is you?
+ 20:35 say;183880265;10;XNT.Nigga;is you
+ 20:36 say;183880265;10;XNT.Nigga;?
+ 20:44 K;183880265;10;allies;XNT.Nigga;183880265;-1;allies;XNT.Nigga;none;100000;MOD_SUICIDE;none
+ 20:55 K;0;2;allies;[3arc]Tom3dJay;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:55 K;0;3;allies;[3arc]kubi ダサい;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;96;MOD_RIFLE_BULLET;torso_lower
+ 20:56 Weapon;183880265;10;XNT.Nigga;l96a1_extclip_mp
+ 21:01 K;0;4;allies;[3arc]Infratic;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 21:02 K;0;5;allies;[3arc]E2028;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+ 21:07 K;0;6;allies;[3arc]Unknown Soldier 6;183880265;10;axis;XNT.Nigga;china_lake_mp;135;MOD_IMPACT;torso_lower
+ 21:10 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;china_lake_mp;135;MOD_IMPACT;right_leg_upper
+ 21:19 K;0;8;allies;[3arc]pont. [wavegod];183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 21:21 K;0;9;allies;[3arc]vaati 'ring;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+ 21:27 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 21:29 K;0;6;allies;[3arc]Unknown Soldier 6;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+ 21:31 K;0;5;allies;[3arc]E2028;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:31 K;0;4;allies;[3arc]Infratic;183880265;10;axis;XNT.Nigga;l96a1_extclip_mp;96;MOD_RIFLE_BULLET;torso_lower
+ 21:35 Weapon;183880265;10;XNT.Nigga;l96a1_extclip_mp
+ 21:35 Weapon;183880265;10;XNT.Nigga;dragunov_extclip_mp
+ 21:39 K;0;5;allies;[3arc]E2028;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;140;MOD_HEAD_SHOT;head
+ 21:39 K;0;6;allies;[3arc]Unknown Soldier 6;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;50;MOD_RIFLE_BULLET;left_leg_lower
+ 21:39 Weapon;183880265;10;XNT.Nigga;dragunov_extclip_mp
+ 21:41 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;70;MOD_RIFLE_BULLET;torso_lower
+ 21:46 K;0;8;allies;[3arc]pont. [wavegod];183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;70;MOD_RIFLE_BULLET;torso_lower
+ 21:46 K;0;9;allies;[3arc]vaati 'ring;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:51 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;70;MOD_RIFLE_BULLET;left_arm_upper
+ 21:56 K;0;6;allies;[3arc]Unknown Soldier 6;183880265;10;axis;XNT.Nigga;dragunov_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 21:57 Weapon;183880265;10;XNT.Nigga;l96a1_extclip_mp
+ 21:59 Weapon;183880265;10;XNT.Nigga;psg1_extclip_mp
+ 22:02 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:05 K;0;8;allies;[3arc]pont. [wavegod];183880265;10;axis;XNT.Nigga;psg1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+ 22:10 K;0;9;allies;[3arc]vaati 'ring;183880265;10;axis;XNT.Nigga;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:17 K;0;8;allies;[3arc]pont. [wavegod];183880265;10;axis;XNT.Nigga;knife_mp;137;MOD_MELEE;torso_upper
+ 22:18 Weapon;183880265;10;XNT.Nigga;kiparisdw_mp
+ 22:20 K;0;7;allies;[3arc]skykuiper;183880265;10;axis;XNT.Nigga;kiparisdw_mp;30;MOD_PISTOL_BULLET;right_leg_lower
+ 22:21 K;0;6;allies;[3arc]Unknown Soldier 6;183880265;10;axis;XNT.Nigga;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 22:24 K;0;4;allies;[3arc]Infratic;183880265;10;axis;XNT.Nigga;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+ 22:24 K;0;5;allies;[3arc]E2028;183880265;10;axis;XNT.Nigga;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 22:27 Weapon;183880265;10;XNT.Nigga;ak74u_dualclip_mp
+ 22:29 K;0;3;allies;[3arc]kubi ダサい;183880265;10;axis;XNT.Nigga;ak74u_dualclip_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 22:29 K;0;2;allies;[3arc]Tom3dJay;183880265;10;axis;XNT.Nigga;ak74u_dualclip_mp;35;MOD_PISTOL_BULLET;torso_lower
+ 22:42 say;183880265;10;XNT.Nigga;sly ?
+ 22:47 K;0;1;axis;slykuiper;183880265;10;axis;XNT.Nigga;ak74u_dualclip_mp;35;MOD_PISTOL_BULLET;right_arm_lower
+ 22:49 Weapon;183880265;10;XNT.Nigga;l96a1_extclip_mp
+ 23:55 K;0;1;axis;slykuiper;183880265;10;axis;XNT.Nigga;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:00 Q;183880265;10;XNT.Nigga
+ 36:55 J;61920289;10;one2crush
+ 38:26 K;0;1;axis;slykuiper;61920289;10;allies;one2crush;ak47_dualclip_mp;55;MOD_HEAD_SHOT;head
+ 38:39 ShutdownGame:
+ 38:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  2:55 J;0;2;[3arc]Dobby
+  3:01 K;0;2;axis;[3arc]Dobby;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:23 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:25 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:27 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:29 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:31 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:33 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:35 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:38 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:40 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:42 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:44 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:46 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:48 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:50 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:52 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:54 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:56 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  3:58 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:00 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:02 J;0;3;[3arc]ZeeBoii
+  4:02 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:04 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:06 J;0;4;[3arc]skykuiper
+  4:06 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:08 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:08 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:09 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_hand
+  4:10 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:12 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:14 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:16 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:16 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:16 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:18 J;0;5;[3arc]coma
+  4:19 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:21 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:21 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:23 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:24 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:25 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:27 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:28 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+  4:29 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:30 J;0;6;[3arc]b̗̩l̙ì̚z͒
+  4:31 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:31 K;0;6;axis;[3arc]b̗̩l̙ì̚z͒;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:33 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:33 J;0;7;[3arc]fnt
+  4:35 K;0;7;axis;[3arc]Unknown Soldier 7;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  4:35 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:36 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  4:37 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:37 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  4:38 K;0;6;axis;[3arc]b̗̩l̙ì̚z͒;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  4:39 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:41 Q;0;7;[3arc]Unknown Soldier 7
+  4:41 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:43 Q;0;6;[3arc]b̗̩l̙ì̚z͒
+  4:43 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:45 J;0;6;[3arc]Oblivion
+  4:45 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:46 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:47 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:48 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+  4:49 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:51 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:53 J;0;7;[3arc]vaati 'ring
+  4:53 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:54 K;0;7;axis;[3arc]vaati 'ring;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_hand
+  4:55 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  4:56 Q;0;7;[3arc]vaati 'ring
+  4:57 J;0;7;[3arc]Biscotti
+  4:57 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:00 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:00 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  5:02 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:02 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:03 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:04 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:06 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:07 J;0;8;[3arc]✪ lucan
+  5:08 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:09 K;0;8;axis;[3arc]lucan;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:10 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:10 Q;0;8;[3arc]lucan
+  5:11 J;0;8;[3arc]adamerek
+  5:12 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:14 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:14 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:14 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:14 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:16 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:16 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:18 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:18 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:19 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;left_arm_upper
+  5:20 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:20 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;left_arm_upper
+  5:22 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:24 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:24 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:26 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:27 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:28 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:28 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:30 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:30 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:31 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:32 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:33 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:34 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:35 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 Weapon;0;1;slykuiper;l96a1_extclip_mp
+  5:36 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:37 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:38 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:38 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:39 Weapon;0;3;ZeeBoii;l96a1_extclip_mp
+  5:41 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:41 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:41 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;53;MOD_RIFLE_BULLET;right_leg_upper
+  5:43 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:43 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:45 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:45 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+  5:46 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:47 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:47 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  5:49 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:49 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:51 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:51 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:53 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:54 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:55 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:55 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:57 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  5:58 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:59 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:01 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+  6:01 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:02 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  6:03 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:05 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:05 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:07 Weapon;0;4;skykuiper;dragunov_extclip_mp
+  6:07 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  6:07 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:09 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:11 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:13 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:14 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:15 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:15 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:16 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;left_arm_upper
+  6:16 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  6:17 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:19 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:21 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  6:22 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:23 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:24 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:24 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:25 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:26 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:28 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:28 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  6:28 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  6:29 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;python_speed_mp;43;MOD_PISTOL_BULLET;torso_upper
+  6:30 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:30 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;python_speed_mp;44;MOD_PISTOL_BULLET;left_arm_lower
+  6:31 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  6:32 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:33 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;python_speed_mp;44;MOD_PISTOL_BULLET;torso_upper
+  6:34 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:36 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:38 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:40 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:42 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:44 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:46 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:48 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:50 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:52 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:54 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:56 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  6:58 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:00 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:03 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:05 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:07 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:09 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:11 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:13 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:15 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:17 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:19 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:21 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:23 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:25 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:27 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:29 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:31 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:33 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:35 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:37 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:39 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:41 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:44 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:46 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:48 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:50 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:52 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:53 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+  7:54 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:54 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  7:56 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+  7:56 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:57 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  7:58 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  7:58 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  8:00 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:02 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:04 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:04 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:05 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  8:06 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:07 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:08 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:09 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  8:10 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:11 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:12 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:12 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  8:14 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:15 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:16 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:18 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:19 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+  8:20 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  8:20 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:22 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_RIFLE_BULLET;neck
+  8:23 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:23 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;left_arm_upper
+  8:25 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:27 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:27 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  8:28 Weapon;0;8;adamerek;l96a1_extclip_mp
+  8:29 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:29 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:30 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:31 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:32 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:33 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:35 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:35 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:36 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:37 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:39 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:39 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:41 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:43 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:44 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  8:45 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:45 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:47 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:47 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:48 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  8:49 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:51 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:51 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;right_arm_upper
+  8:53 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:54 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  8:55 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:57 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  8:59 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:00 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;l96a1_extclip_mp;140;MOD_HEAD_SHOT;head
+  9:00 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;l96a1_extclip_mp;82;MOD_RIFLE_BULLET;torso_upper
+  9:01 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  9:01 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:03 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;python_speed_mp;45;MOD_PISTOL_BULLET;torso_upper
+  9:04 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:04 K;0;4;axis;[3arc]skykuiper;0;1;allies;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  9:05 K;0;3;axis;[3arc]ZeeBoii;0;1;allies;slykuiper;python_speed_mp;50;MOD_PISTOL_BULLET;torso_lower
+  9:06 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:06 Weapon;0;1;slykuiper;psg1_extclip_mp
+  9:08 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:08 K;0;8;axis;[3arc]adamerek;0;1;allies;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  9:09 K;0;6;axis;[3arc]Oblivion;0;1;allies;slykuiper;psg1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  9:09 K;0;5;axis;[3arc]coma;0;1;allies;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  9:10 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:11 K;0;7;axis;[3arc]Biscotti;0;1;allies;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  9:12 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:14 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:16 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:18 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:20 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:22 K;0;2;axis;[3arc]Dobby;;-1;world;;none;3000;MOD_FALLING;none
+  9:31 ShutdownGame:
+  9:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  0:24 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  7:15 J;0;2;[3arc]Tom3dJay
+  7:20 K;0;2;allies;[3arc]Tom3dJay;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  7:23 J;0;3;[3arc]warz.
+  7:27 Weapon;0;2;Tom3dJay;wa2000_extclip_mp
+  7:27 Q;0;3;[3arc]warz.
+  7:27 Q;0;2;[3arc]Tom3dJay
+ 15:59 ShutdownGame:
+ 15:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  6:43 ShutdownGame:
+  6:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  0:59 ShutdownGame:
+  0:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  0:38 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_TRIGGER_HURT;none
+  3:53 ShutdownGame:
+  3:53 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;slykuiper
+  1:30 ShutdownGame:
+  1:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots2\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:50 J;0;0;[3arc]democlient
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:06 J;0;0;[3arc]democlient
+  3:44 D;0;1;allies;slykuiper;0;1;allies;slykuiper;flash_grenade_mp;1;MOD_GRENADE_SPLASH;none
+  9:17 ShutdownGame:
+  9:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  2:32 ShutdownGame:
+  2:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:30 J;0;0;[3arc]democlient
+  5:35 ShutdownGame:
+  5:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  0:56 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:09 K;0;1;allies;slykuiper;0;-1;allies;slykuiper;explosive_bolt_mp;159;MOD_GRENADE_SPLASH;none
+  1:14 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 11:29 ShutdownGame:
+ 11:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  6:01 ShutdownGame:
+  6:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_radiation\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_radiation\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  2:22 ShutdownGame:
+  2:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cosmodrome\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cosmodrome\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:45 J;0;0;[3arc]democlient
+  1:33 ShutdownGame:
+  1:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:15 J;0;0;[3arc]democlient
+  3:58 ShutdownGame:
+  3:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:20 J;0;0;[3arc]democlient
+  1:08 ShutdownGame:
+  1:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:45 J;0;0;[3arc]democlient
+ 14:02 ShutdownGame:
+ 14:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:22 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:27 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:33 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:38 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:43 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:49 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:55 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  2:00 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 13:56 ShutdownGame:
+ 13:56 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:35 J;0;0;[3arc]democlient
+ 11:28 ShutdownGame:
+ 11:28 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+180:04 ShutdownGame:
+180:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+ 13:39 ShutdownGame:
+ 13:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  2:58 ShutdownGame:
+  2:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:35 ShutdownGame:
+  1:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  1:31 ShutdownGame:
+  1:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:55 J;0;0;[3arc]democlient
+  2:19 ShutdownGame:
+  2:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:35 J;0;0;[3arc]democlient
+  6:14 ShutdownGame:
+  6:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+ 13:15 ShutdownGame:
+ 13:15 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  3:20 ShutdownGame:
+  3:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:48 ShutdownGame:
+  1:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  2:14 ShutdownGame:
+  2:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  3:08 J;0;2;[3arc]Mitch
+  3:11 J;0;3;[3arc]RM Slykuiper
+  3:16 K;0;3;axis;[3arc]RM Slykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  3:18 K;0;2;axis;[3arc]Mitch;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  3:23 Weapon;0;3;RM Slykuiper;psg1_extclip_mp
+  3:23 J;0;4;[3arc]BlueGhost
+  4:18 K;0;3;axis;[3arc]RM Slykuiper;0;1;allies;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  4:19 Weapon;0;1;slykuiper;psg1_extclip_mp
+  4:24 Weapon;0;3;RM Slykuiper;l96a1_extclip_mp
+ 22:18 K;0;3;axis;[3arc]RM Slykuiper;0;1;allies;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:25 K;0;2;axis;[3arc]Mitch;0;1;allies;slykuiper;psg1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:26 K;0;4;axis;[3arc]BlueGhost;0;1;allies;slykuiper;psg1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 22:27 K;0;3;axis;[3arc]RM Slykuiper;0;1;allies;slykuiper;psg1_extclip_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 22:32 ShutdownGame:
+ 22:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  5:24 ShutdownGame:
+  5:24 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:20 J;0;0;[3arc]democlient
+  6:02 ShutdownGame:
+  6:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  1:25 J;0;0;[3arc]democlient
+ 15:43 ShutdownGame:
+ 15:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  2:06 J;0;0;[3arc]democlient
+ 25:03 ShutdownGame:
+ 25:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  1:50 J;0;0;[3arc]democlient
+  9:03 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 11:19 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 11:28 K;0;1;axis;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 11:51 ShutdownGame:
+ 11:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+ 12:26 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+ 14:06 ShutdownGame:
+ 14:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  1:40 ShutdownGame:
+  1:40 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:55 J;0;0;[3arc]democlient
+  9:33 ShutdownGame:
+  9:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  1:43 ShutdownGame:
+  1:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cosmodrome\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_cosmodrome\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  3:46 ShutdownGame:
+  3:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  0:34 ShutdownGame:
+  0:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:25 J;0;0;[3arc]democlient
+  2:26 ShutdownGame:
+  2:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:05 ShutdownGame:
+  1:05 ------------------------------------------------------------
+  1:05 ------------------------------------------------------------
+  1:05 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\sab\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:05 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\sab\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:05 J;0;1;slykuiper
+  1:10 J;0;0;[3arc]democlient
+  7:35 ShutdownGame:
+  7:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:50 J;0;0;[3arc]democlient
+ 26:34 ShutdownGame:
+ 26:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:15 J;0;0;[3arc]democlient
+  2:04 ShutdownGame:
+  2:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+ 11:27 ShutdownGame:
+ 11:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  2:05 ShutdownGame:
+  2:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  1:05 J;0;0;[3arc]democlient
+  2:34 ShutdownGame:
+  2:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:15 J;0;0;[3arc]democlient
+  1:51 ShutdownGame:
+  1:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+ 17:03 K;0;1;allies;slykuiper;;-1;world;;none;1000;MOD_TRIGGER_HURT;none
+ 21:26 ShutdownGame:
+ 21:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:20 J;0;0;[3arc]democlient
+  0:46 ShutdownGame:
+  0:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:52 ShutdownGame:
+  1:52 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  8:50 J;0;0;[3arc]democlient
+ 22:59 ShutdownGame:
+ 22:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:30 J;0;0;[3arc]democlient
+  3:03 ShutdownGame:
+  3:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_russianbase\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_russianbase\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  1:17 J;0;2;[3arc]adamerek
+  1:19 J;0;3;[3arc]pont. [wavegod]
+  1:23 J;0;4;[3arc]RM Slykuiper
+  2:02 K;0;4;allies;[3arc]RM Slykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  2:04 K;0;3;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  2:08 K;0;2;allies;[3arc]adamerek;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  2:09 K;0;4;allies;[3arc]RM Slykuiper;0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  2:11 K;0;3;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;105;MOD_RIFLE_BULLET;torso_lower
+  2:16 K;0;2;allies;[3arc]adamerek;0;1;axis;slykuiper;python_speed_mp;69;MOD_HEAD_SHOT;head
+  3:01 K;0;2;allies;[3arc]adamerek;0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  3:02 K;0;3;allies;[3arc]pont. [wavegod];0;1;axis;slykuiper;l96a1_extclip_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  3:09 Weapon;0;3;pont. [wavegod];l96a1_extclip_mp
+  4:19 Q;0;0;[3arc]democlient
+  4:24 Q;0;1;slykuiper
+  4:24 ShutdownGame:
+  4:24 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:40 J;0;0;[3arc]democlient
+  5:45 ShutdownGame:
+  5:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  4:20 ShutdownGame:
+  4:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  3:52 ShutdownGame:
+  3:52 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_villa\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_villa\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  1:10 J;0;0;[3arc]democlient
+  4:34 ShutdownGame:
+  4:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  3:54 ShutdownGame:
+  3:54 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+  3:51 ShutdownGame:
+  3:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  4:39 ShutdownGame:
+  4:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:05 J;0;0;[3arc]democlient
+  7:59 ShutdownGame:
+  7:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:20 J;0;0;[3arc]democlient
+  9:58 ShutdownGame:
+  9:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:35 J;0;0;[3arc]democlient
+  8:27 ShutdownGame:
+  8:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:40 J;0;0;[3arc]democlient
+  8:33 ShutdownGame:
+  8:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:10 J;0;0;[3arc]democlient
+ 38:41 ShutdownGame:
+ 38:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_hanoi\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:40 J;0;0;[3arc]democlient
+ 28:05 ShutdownGame:
+ 28:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:45 J;0;0;[3arc]democlient
+  1:33 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  1:41 K;0;1;allies;slykuiper;;-1;world;;none;3000;MOD_FALLING;none
+  3:08 ShutdownGame:
+  3:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\1\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;slykuiper
+  0:36 J;0;0;[3arc]democlient
+ 10:55 ShutdownGame:
+ 10:55 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_havoc\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_havoc\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;slykuiper
+  0:31 J;0;1;[3arc]YOLO
+  0:33 J;0;2;[3arc]jusmi
+  0:34 J;0;3;[3arc]RM Slykuiper
+  1:29 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;asp_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:29 D;0;3;allies;[3arc]RM Slykuiper;0;0;axis;slykuiper;asp_mp;40;MOD_PISTOL_BULLET;torso_upper
+  1:29 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;asp_mp;33;MOD_PISTOL_BULLET;torso_lower
+  1:29 D;0;3;allies;[3arc]RM Slykuiper;0;0;axis;slykuiper;asp_mp;40;MOD_PISTOL_BULLET;torso_upper
+  1:29 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;asp_mp;17;MOD_PISTOL_BULLET;left_arm_upper
+  1:29 K;0;3;allies;[3arc]RM Slykuiper;0;0;axis;slykuiper;asp_mp;40;MOD_PISTOL_BULLET;torso_upper
+  1:29 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;asp_mp;28;MOD_PISTOL_BULLET;torso_lower
+  1:29 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;asp_mp;31;MOD_PISTOL_BULLET;torso_lower
+  1:47 Q;0;1;[3arc]YOLO
+  1:47 Q;0;2;[3arc]jusmi
+  1:47 Q;0;3;[3arc]RM Slykuiper
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  1:47 ------------------------------------------------------------
+  1:47 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_havoc\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:47 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_havoc\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:47 J;0;0;slykuiper
+  2:09 ShutdownGame:
+  2:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;slykuiper
+  0:35 Weapon;0;0;slykuiper;g11_mp
+  0:42 J;0;1;[3arc]YOLO
+  0:43 J;0;2;[3arc]jusmi
+  0:45 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;g11_mp;35;MOD_RIFLE_BULLET;left_hand
+  0:45 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;g11_mp;35;MOD_RIFLE_BULLET;left_hand
+  1:00 Weapon;0;0;slykuiper;g11_acog_mp
+  1:04 Weapon;0;0;slykuiper;g11_reflex_mp
+  1:19 Weapon;0;0;slykuiper;g11_vzoom_mp
+  1:23 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;g11_vzoom_mp;35;MOD_RIFLE_BULLET;neck
+  1:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;g11_vzoom_mp;33;MOD_RIFLE_BULLET;neck
+  1:23 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;g11_vzoom_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;g11_vzoom_mp;26;MOD_RIFLE_BULLET;torso_upper
+  1:23 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;g11_vzoom_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;g11_vzoom_mp;25;MOD_RIFLE_BULLET;torso_upper
+  1:34 Weapon;0;0;slykuiper;commando_mp
+  1:42 Weapon;0;0;slykuiper;mp5k_rf_mp
+  1:46 Weapon;0;0;slykuiper;commando_mp
+  1:49 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;commando_mp;55;MOD_HEAD_SHOT;head
+  1:49 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;commando_mp;55;MOD_HEAD_SHOT;head
+  1:50 Weapon;0;0;slykuiper;enfield_mp
+  1:54 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;enfield_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:54 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;enfield_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:54 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;enfield_mp;35;MOD_RIFLE_BULLET;torso_upper
+  2:09 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;commando_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  2:09 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;commando_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:10 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;commando_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+  2:10 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;commando_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+  2:20 Weapon;0;0;slykuiper;g11_vzoom_mp
+  2:22 Weapon;0;0;slykuiper;commando_mp
+  2:26 Weapon;0;0;slykuiper;galil_mp
+  2:39 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:39 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:40 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:40 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:40 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:40 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;galil_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:43 Weapon;0;0;slykuiper;mp5k_rf_mp
+  2:45 Weapon;0;0;slykuiper;asp_mp
+  3:17 Weapon;0;0;slykuiper;kiparisdw_mp
+  3:23 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:23 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:23 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  3:23 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  3:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:23 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:23 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:31 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:31 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;11;MOD_PISTOL_BULLET;left_leg_upper
+  3:31 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:31 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;kiparisdw_mp;11;MOD_PISTOL_BULLET;left_leg_upper
+  3:31 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  3:31 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  3:33 Weapon;0;0;slykuiper;m16_mp
+  3:33 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:00 Weapon;0;0;slykuiper;stoner63_mp
+  4:02 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_upper
+  4:02 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+  4:03 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+  4:03 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:04 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:04 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:32 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:32 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;28;MOD_RIFLE_BULLET;torso_lower
+  4:32 D;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;40;MOD_RIFLE_BULLET;torso_upper
+  4:32 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;27;MOD_RIFLE_BULLET;torso_lower
+  4:32 K;0;1;allies;[3arc]YOLO;0;0;axis;slykuiper;stoner63_mp;55;MOD_HEAD_SHOT;head
+  4:32 D;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;38;MOD_RIFLE_BULLET;neck
+  4:32 K;0;2;allies;[3arc]jusmi;0;0;axis;slykuiper;stoner63_mp;34;MOD_RIFLE_BULLET;torso_upper
+  4:36 ShutdownGame:
+  4:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;slykuiper
+  0:26 Weapon;0;0;slykuiper;galil_mp
+  8:19 ShutdownGame:
+  8:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 Q;0;0;RM Slykuiper
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:43 ShutdownGame:
+  1:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;RM Slykuiper - 2
+  4:18 D;0;0;axis;RM Slykuiper - 2;0;0;axis;RM Slykuiper - 2;willy_pete_mp;12;MOD_GRENADE_SPLASH;none
+  4:25 Weapon;0;0;RM Slykuiper - 2;frag_grenade_mp
+  4:26 K;0;0;axis;RM Slykuiper - 2;;-1;world;;none;3000;MOD_FALLING;none
+  5:08 J;0;1;[3arc]kubi ダサい
+  7:28 J;0;2;[3arc]pont. [wavegod]
+  7:33 D;0;1;allies;[3arc]kubi ダサい;0;0;axis;RM Slykuiper - 2;dragunov_mp;70;MOD_RIFLE_BULLET;torso_lower
+  7:34 K;0;2;allies;[3arc]pont. [wavegod];0;0;axis;RM Slykuiper - 2;dragunov_mp;105;MOD_RIFLE_BULLET;torso_upper
+  7:36 Weapon;0;0;RM Slykuiper - 2;m16_mp
+  7:36 K;0;1;allies;[3arc]kubi ダサい;0;0;axis;RM Slykuiper - 2;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  7:37 Weapon;0;0;RM Slykuiper - 2;m16_mp
+  7:51 Q;0;2;[3arc]pont. [wavegod]
+  7:51 Q;0;1;[3arc]kubi ダサい
+ 10:19 ShutdownGame:
+ 10:19 ------------------------------------------------------------
+ 10:19 ------------------------------------------------------------
+ 10:19 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+ 10:19 InitGame: \com_maxclients\32\fs_game\mods/mp_slybots_v1\g_gametype\tdm\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 10:19 J;0;0;RM Slykuiper - 2
+ 13:43 D;0;0;allies;RM Slykuiper - 2;;-1;world;;none;25;MOD_FALLING;none
+ 13:59 ShutdownGame:
+ 13:59 ------------------------------------------------------------
